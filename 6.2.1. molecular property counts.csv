@@ -1,0 +1,27 @@
+,True,False
+nitrile,515,13330
+sulfonamide,639,13206
+sulfide,656,13189
+aromatic amine,671,13174
+phenol,862,12983
+ketone,984,12861
+aromatic hydroxyl,1031,12814
+unbranched alkane >4,1039,12806
+alkyl halide,1098,12747
+nitro,1199,12646
+carboxylic acid,1223,12622
+ester,1750,12095
+aliphatic hydroxyl,1810,12035
+primary amine,2424,11421
+saturated rings,2849,10996
+bicyclic,3311,10534
+aniline,3391,10454
+halogen,3925,9920
+aromatic nitrogen,4043,9802
+amide,4063,9782
+secondary amine,4898,8947
+ether,4995,8850
+tertiary amine,7887,5958
+benzene,9257,4588
+aromatic rings,11546,2299
+rings,12682,1163
