@@ -1,7 +1,0 @@
-,Mean,Standard Deviation,Minimum,Maximum,Median,IQR
-Abs Kowwin error,0.37617,0.46966,0.0,18.24,0.25,0.39
-Abs Wildman-Crippen error,0.6079,0.59842,0.0,14.5192,0.4499,0.60768
-Abs Meylan-Kowwin error,0.64255,0.68009,0.0,21.64,0.44,0.7
-Abs MLogP error,0.74761,0.6967,0.0,11.53,0.56,0.76
-Abs ALogP error,0.55424,0.60536,0.0,16.75,0.39,0.53
-Abs consensus logp error,0.45261,0.48784,0.0,15.7078,0.32718,0.43837
